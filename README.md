@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate fullstack Developer from Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan7019&label=Profile%20views&color=0e75b6&style=flat" alt="aryan7019" /> </p>
-<img align="right" alt="Coding" height="250" width="250" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" height="350" width="350" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 💬 Ask me about **Mern, Java**
 
