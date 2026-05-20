@@ -92,21 +92,6 @@ My work is especially focused on **AI-powered products**, **LLM-driven workflows
   </tr>
 </table>
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aryan7019&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Aryan7019 GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan7019&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aryan7019 top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aryan7019&theme=tokyonight&hide_border=true" alt="Aryan7019 GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan7019&theme=tokyo-night&hide_border=true&area=true" alt="Aryan7019 GitHub activity graph" />
-</p>
-
 ## Education
 
 ### Maharaja Agrasen Institute of Technology
